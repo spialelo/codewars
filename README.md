@@ -7,3 +7,4 @@ My codewars solutions. Saving them for possible future use.
 ##**2017-01-08** - Solved 1 problem so far this morning. Update: Solved another two more in the evening
 ##**2017-01-09** - Solved 1 codewars problem and worked on the Eloquent JavaScript chessboard exercise: solved it! And now worked on Ch 3, problem 1: min.
 ##**2017-01-10** - Solved 1 Eloquent JavaScript Recursion exercise.
+##**2017-01-11** - Solved 1 Eloquent JavaScript Bean Counting exercise.
